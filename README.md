@@ -1,3 +1,3 @@
 # Avatichi scripts
 
-randod scripts created from one reason or another
+Random scripts created from one reason or another
